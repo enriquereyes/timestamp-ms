@@ -38,7 +38,7 @@ Navigate to http://localhost:4567/
 
 ## Built With
 
-* [Sinatra](http://www.sinatrarb.com/) - The web framework used
+* [Sinatra](http://www.sinatrarb.com/)
 
 ## License
 
