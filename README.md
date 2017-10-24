@@ -34,7 +34,7 @@ Launch application.
 ruby timestamp-ms/app.rb
 ```
 
-Browse to http://localhost:4567/
+Navigate to http://localhost:4567/
 
 ## Built With
 
